@@ -1,0 +1,29 @@
+{
+  "wheel_id": 586,
+  "structure": "wheel",
+  "slug": "canberrahomeloanbroker-109",
+  "project": "mortgage-brokers-canberra-red-flags-2466da3882954b7d7998021b1ae",
+  "parent_t1_ref": "canberrahomeloanbroker-155",
+  "node_role": "feeder",
+  "money_target": "canberrahomeloanbroker.com.au",
+  "primary_kw": "mortgage brokers canberra red flags",
+  "intended_url": "https://sitesau.github.io/canberrahomeloanbroker-109/",
+  "tier": "T2",
+  "writeback_nonce": "bbd77f24d2962efd",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/mortgage-brokers-canberra-beginner-guide-88d20d7207e2ec22d77be8/",
+      "anchor": "Mortgage Brokers Canberra Beginner Guide: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    },
+    {
+      "target_url": "http://mortgage-brokers-canberra-local-options-compared-4660d00e8b3256.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the related guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
